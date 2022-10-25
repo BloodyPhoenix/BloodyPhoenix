@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BloodyPhoenix
 - 👀 I’m interested in Python-backend development, databases, etc.
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mchashchina@gmail.com
 
 <!---
